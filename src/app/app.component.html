@@ -103,7 +103,7 @@
         <th>Set Level Cap :</th>
         <td width="50">
           <mat-select [value]="levelCap" (selectionChange)="changeLevelCap($event.value)">
-            <mat-option *ngFor="let e of [].constructor(9); index as i" [value]="i+4">{{ i+5 }}</mat-option>
+            <mat-option *ngFor="let e of [].constructor(11); index as i" [value]="i+4">{{ i+5 }}</mat-option>
           </mat-select>
         </td>
       </tr>
@@ -121,7 +121,7 @@
           <input *ngIf="isRangeValue(attr); else minValue" type="text" [formControlName]="attr" style="width: 50px;">
           <ng-template #minValue>
             <mat-select [formControlName]="attr">
-              <mat-option *ngFor="let e of [].constructor(121); index as i" [value]="i">
+              <mat-option *ngFor="let e of [].constructor(165); index as i" [value]="i">
                 <ng-container *ngIf="i; else ignore">
                   &#8805; {{ i }}
                 </ng-container>

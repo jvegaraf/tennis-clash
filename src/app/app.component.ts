@@ -299,7 +299,7 @@ export class AppComponent implements OnDestroy {
     const formConfigs = {};
     for (const attr of ATTRIBUTES)
       formConfigs[attr] = new FormControl(configs[attr] ?? 1);
-    formConfigs['levelCap'] = new FormControl(configs['levelCap'] ?? 12);
+    formConfigs['levelCap'] = new FormControl(configs['levelCap'] ?? 14);
     this.formGroup = new FormGroup(formConfigs);
 
     for (const category of CATEGORIES) {
