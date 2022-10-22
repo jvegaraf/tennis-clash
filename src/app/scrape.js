@@ -14,6 +14,7 @@ const GEARS_URLS = {
     'https://tennis-clash.fandom.com/wiki/Luc',
     'https://tennis-clash.fandom.com/wiki/Abeke',
     'https://tennis-clash.fandom.com/wiki/Omar',
+	'https://tennis-clash.fandom.com/wiki/Anton',
   ],
   'Racket': [
     'https://tennis-clash.fandom.com/wiki/Starter_Racket',
@@ -136,7 +137,7 @@ async function get_and_parse(url) {
     item.rarity = s.substring(i, j);
   }
 
-  meta = 'href="https://static.wikia.nocookie.net/tennis-clash/images';
+  meta = 'href="https://vignette.wikia.nocookie.net/tennis-clash/images';
   i = s.indexOf(meta) + 6;
   j = s.indexOf('"', i);
   item.imageUrl = s.substring(i, j).replace('static.', 'vignette.');
