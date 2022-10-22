@@ -14,7 +14,6 @@ const GEARS_URLS = {
     'https://tennis-clash.fandom.com/wiki/Luc',
     'https://tennis-clash.fandom.com/wiki/Abeke',
     'https://tennis-clash.fandom.com/wiki/Omar',
-    'https://tennis-clash.fandom.com/wiki/Anton',
   ],
   'Racket': [
     'https://tennis-clash.fandom.com/wiki/Starter_Racket',
