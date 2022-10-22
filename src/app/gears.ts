@@ -1546,8 +1546,8 @@ export const GEARS = {
           0,
           0,
           0,
-		      0,
-		      0
+          0,
+          0
         ],
         "Stamina": [
           4,
@@ -1563,8 +1563,8 @@ export const GEARS = {
           0,
           0,
           0,
-		      0,
-		      0
+          0,
+          0
         ],
         "Serve": [
           3,
@@ -1580,8 +1580,8 @@ export const GEARS = {
           0,
           0,
           0,
-		      0,
-		      0
+          0,
+          0
         ],
         "Volley": [
           2,
@@ -1597,8 +1597,8 @@ export const GEARS = {
           0,
           0,
           0,
-		      0,
-		      0
+          0,
+          0
         ],
         "Forehand": [
           4,
@@ -1614,8 +1614,8 @@ export const GEARS = {
           0,
           0,
           0,
-		      0,
-		      0
+          0,
+          0
         ],
         "Backhand": [
           5,
@@ -1631,8 +1631,8 @@ export const GEARS = {
           0,
           0,
           0,
-		      0,
-		      0
+          0,
+          0
         ]
       }
     }
