@@ -1,5 +1,5 @@
 export const GEARS = {
-    "Character": [
+  "Character": [
     {
       "url": "https://tennis-clash.fandom.com/wiki/Jonah",
       "name": "Jonah",
@@ -482,7 +482,7 @@ export const GEARS = {
           "150",
           "300",
           "450",
-		  "750"
+          "750"
         ],
         "Price": [
           "",
@@ -498,8 +498,8 @@ export const GEARS = {
           "140k",
           "180k",
           "250k",
-		  "3.5m",
-		  "10m"
+          "3.5m",
+          "10m"
         ]
       },
       "skills": {
@@ -607,7 +607,7 @@ export const GEARS = {
         ]
       }
     },
-	{
+    {
       "url": "https://tennis-clash.fandom.com/wiki/Anton",
       "name": "Anton",
       "foundIn": "",
@@ -901,7 +901,7 @@ export const GEARS = {
         ]
       }
     },
-	{
+    {
       "url": "https://tennis-clash.fandom.com/wiki/Omar",
       "name": "Omar",
       "foundIn": "",
@@ -1195,7 +1195,7 @@ export const GEARS = {
         ]
       }
     },
-	{
+    {
       "url": "https://tennis-clash.fandom.com/wiki/Abeke",
       "name": "Abeke",
       "foundIn": "",
@@ -1233,8 +1233,8 @@ export const GEARS = {
           "",
           "",
           "",
-		  "",
-		  ""
+          "",
+          ""
         ]
       },
       "skills": {
@@ -1672,7 +1672,7 @@ export const GEARS = {
           "100",
           "150",
           "300",
-		  "",
+          "",
           ""
         ],
         "Price": [
