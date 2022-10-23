@@ -607,7 +607,7 @@ export const GEARS = {
         ]
       }
     },
-		{
+	{
       "url": "https://tennis-clash.fandom.com/wiki/Anton",
       "name": "Anton",
       "foundIn": "",
@@ -901,7 +901,7 @@ export const GEARS = {
         ]
       }
     },
-	   {
+	{
       "url": "https://tennis-clash.fandom.com/wiki/Omar",
       "name": "Omar",
       "foundIn": "",
@@ -1671,7 +1671,8 @@ export const GEARS = {
           "60",
           "100",
           "150",
-          "300","",
+          "300",
+		  "",
           ""
         ],
         "Price": [
